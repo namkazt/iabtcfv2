@@ -1,3 +1,3 @@
-module github.com/SirDataFR/iabtcfv2
+module github.com/namkazt/iabtcfv2
 
-go 1.17
+go 1.24.1
